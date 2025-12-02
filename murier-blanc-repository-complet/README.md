@@ -1,6 +1,5 @@
 # Étude du mûrier blanc (Morus alba)
 
-Structure complète du dépôt.
 🌿 Introduction
 
 Le mûrier blanc (Morus alba L.) est une espèce fruitière et forestière d'une importance agronomique, écologique et socio-économique considérable. Originaire d’Asie orientale, il a été largement introduit à travers le monde, notamment dans les régions méditerranéennes, où il occupe une place stratégique aussi bien dans la production de feuilles pour l’élevage du ver à soie que dans les systèmes agroforestiers traditionnels.
