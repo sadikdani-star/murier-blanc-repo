@@ -35,3 +35,10 @@ Ses feuilles, fruits et racines présentent un potentiel agroalimentaire et phar
 Elle contribue à la préservation des ressources phytogénétiques locales.
 Elle soutient la valorisation industrielle et agroforestière de l’espèce.
 Enfin, elle fournit un cadre scientifique pour des stratégies de conservation durable.
+L'interet de l'étude phénotypique:
+L’étude phénotypique permet de décrire et mesurer les caractères visibles des plantes, comme la taille, la forme des feuilles, la croissance et la résistance aux stress.
+Elle aide à identifier la variabilité entre les accessions et à distinguer les génotypes les plus adaptés à un environnement donné.
+Elle fournit des informations essentielles pour la sélection variétale et les programmes d’amélioration.
+Elle contribue à la conservation des ressources génétiques locales en identifiant des traits précieux.
+Elle permet également d’orienter la valorisation industrielle et agroforestière des plantes étudiées.
+Enfin, elle complète l’étude génétique en corrélant les traits observables aux bases génétiques, facilitant la compréhension de l’adaptation et de la biodiversité.
