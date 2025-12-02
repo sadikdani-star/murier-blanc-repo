@@ -27,5 +27,11 @@ identifier des génotypes d’intérêt,
 orienter les efforts de valorisation face au changement climatique,
 
 contribuer à la préservation des ressources phytogénétiques locales.
-
+Valorisatio
 Cette introduction pose les bases scientifiques de l’importance du mûrier blanc dans les systèmes de production durables. Sa richesse génétique et ses atouts biologiques en font une espèce prioritaire pour la recherche, la conservation et la valorisation.
+L’étude du mûrier blanc (Morus alba) permet d’évaluer sa diversité génétique et phénotypique, essentielle pour les programmes de sélection.
+Elle met en évidence sa capacité d’adaptation aux stress abiotiques, utile face au changement climatique.
+Ses feuilles, fruits et racines présentent un potentiel agroalimentaire et pharmaceutique important.
+Elle contribue à la préservation des ressources phytogénétiques locales.
+Elle soutient la valorisation industrielle et agroforestière de l’espèce.
+Enfin, elle fournit un cadre scientifique pour des stratégies de conservation durable.
